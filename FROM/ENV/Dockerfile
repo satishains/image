@@ -3,4 +3,4 @@ ENV COURSE="WORST" \
     VILLAGE="Amu" \
     AREA="HOSPITAL" \
     DURATION="10min"
-CMD ["slepp" , "1000"]
+CMD ["sleep" , "1000"]
